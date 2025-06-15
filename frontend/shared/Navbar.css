@@ -1,0 +1,18 @@
+@keyframes glow-border {
+  0% {
+    border-color: #6e6ce0;
+    box-shadow: 0 0 8px #6e6ce0;
+  }
+  50% {
+    border-color: #443c91;
+    box-shadow: 0 0 20px #443c91;
+  }
+  100% {
+    border-color: #6e6ce0;
+    box-shadow: 0 0 8px #6e6ce0;
+  }
+}
+
+.glowing-border {
+  transition: box-shadow 0.3s ease;
+}

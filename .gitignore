@@ -1,0 +1,17 @@
+#backend files
+
+/backend/node_modules
+/backend/public/temp_images/*
+/backend/temp_images/*
+
+#frontend files
+/frontend/tailwind.config.js
+/frontend/jsconfig.json
+/frontend/components.json
+/frontend/node_modules
+/frontend/public
+
+#common
+.env
+package-lock.json
+package.json
