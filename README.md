@@ -40,6 +40,6 @@ This is the main interactive section of the application.
 |----------|---------|------------------|
 | React.js | Node.js | ComfyUI          |
 | Tailwind CSS | Express.js | AI-based garment overlay |
-| Vite | REST API | |
+| Vite | REST API | React Router |
 
 ---
