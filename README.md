@@ -1,4 +1,4 @@
-# 👗 Virtual Outfit Web App
+# Virtual Outfit Web App
 
 A web-based application that allows users to try virtual clothes on their own uploaded images. Users can follow simple steps to visualize how different outfits look on them.
 
